@@ -142,6 +142,11 @@ The Base JSON object looks like
         - `"7"` and `"0"` are again the foreground and background color codes, respectively (in case of the new-line, they are ignored).
 
 
+
 ## Contributing
 
 Contributions to enhance the functionality or documentation of this script are welcome. Please ensure to test your changes before submitting a pull request.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the `COPYING` file for more details.
